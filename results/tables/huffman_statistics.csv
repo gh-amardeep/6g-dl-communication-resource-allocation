@@ -1,0 +1,6 @@
+,value
+entropy H [bit/char] (training pmf),4.469506742655594
+average code length [bit/char] (training pmf),4.49827989817588
+efficiency H / L,0.9936035204185596
+measured bits/char on TEST set,4.491449803760274
+fixed-length code ceil(log2 85),7.0

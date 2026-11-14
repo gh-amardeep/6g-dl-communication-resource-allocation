@@ -1,0 +1,15 @@
+{
+  "name": "ae74_rayleigh",
+  "seed": 20241113,
+  "n_real": 7,
+  "rx_extra": 1,
+  "channel": "rayleigh",
+  "rate": 0.5714285714285714,
+  "ebn0": [
+    0.0,
+    20.0
+  ],
+  "steps": 8000,
+  "batch": 1024,
+  "lr": 0.003
+}

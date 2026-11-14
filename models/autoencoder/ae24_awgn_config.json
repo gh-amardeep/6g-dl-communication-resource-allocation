@@ -1,0 +1,16 @@
+{
+  "name": "ae24_awgn",
+  "seed": 20241113,
+  "n_real": 2,
+  "rx_extra": 0,
+  "channel": "awgn",
+  "rate": 4.0,
+  "power": 0.5,
+  "ebn0": [
+    4.0,
+    12.0
+  ],
+  "steps": 6000,
+  "batch": 1024,
+  "lr": 0.003
+}

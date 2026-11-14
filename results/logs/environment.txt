@@ -1,0 +1,12 @@
+python 3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0]
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.9
+pandas==2.3.3
+sklearn==1.7.2
+pytest==9.2.0
+tqdm==4.70.1
+sacrebleu==2.6.0
+spacy==3.8.18
+nbformat==5.11.1
+embedding_backend=spacy-en_core_web_md-mean-word-vectors

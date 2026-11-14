@@ -1,0 +1,13 @@
+channel,MCS,efficiency,first_SNR_selected_dB
+awgn,MCS1: QPSK 1/2,1.0,2.5
+awgn,MCS2: QPSK 3/4,1.5,5.0
+awgn,MCS3: 16QAM 1/2,2.0,7.5
+awgn,MCS4: 16QAM 3/4,3.0,11.0
+awgn,MCS5: 64QAM 2/3,4.0,14.5
+awgn,MCS6: 64QAM 3/4,4.5,16.0
+rayleigh,MCS1: QPSK 1/2,1.0,
+rayleigh,MCS2: QPSK 3/4,1.5,18.0
+rayleigh,MCS3: 16QAM 1/2,2.0,20.0
+rayleigh,MCS4: 16QAM 3/4,3.0,22.0
+rayleigh,MCS5: 64QAM 2/3,4.0,24.0
+rayleigh,MCS6: 64QAM 3/4,4.5,26.0

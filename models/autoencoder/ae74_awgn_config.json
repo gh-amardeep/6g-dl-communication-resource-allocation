@@ -1,0 +1,15 @@
+{
+  "name": "ae74_awgn",
+  "seed": 20241113,
+  "n_real": 7,
+  "rx_extra": 0,
+  "channel": "awgn",
+  "rate": 0.5714285714285714,
+  "ebn0": [
+    0.0,
+    8.0
+  ],
+  "steps": 6000,
+  "batch": 1024,
+  "lr": 0.003
+}

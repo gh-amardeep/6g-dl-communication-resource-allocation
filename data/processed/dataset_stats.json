@@ -1,0 +1,21 @@
+{
+  "source": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown.zip",
+  "corpus": "Brown Corpus (NLTK distribution)",
+  "seed": 2024,
+  "n_documents": 500,
+  "n_test_documents": 75,
+  "raw_nonempty_lines": 57340,
+  "n_sentences_after_filtering": 30721,
+  "length_filter_chars": [
+    30,
+    120
+  ],
+  "n_train_sentences": 25932,
+  "n_test_sentences": 2000,
+  "train_test_exact_overlap": 0,
+  "train_vocab_chars": 84,
+  "test_vocab_chars": 78,
+  "test_chars_unseen_in_train": [],
+  "mean_train_chars_per_sentence": 73.10724201758445,
+  "mean_test_chars_per_sentence": 71.7235
+}

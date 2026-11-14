@@ -1,0 +1,19 @@
+# Exercise 1 - versions the project was developed and tested with (Python 3.13, CPU only)
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+pandas==3.0.5
+scikit-learn==1.9.1
+pytest==9.1.1
+tqdm==4.70.1
+sacrebleu==2.6.0
+spacy==3.8.18
+# pretrained word vectors for the sentence-embedding metric (installed from a wheel, not PyPI):
+#   pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl
+jupyterlab==4.6.6
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.2
+nbclient==0.11.0
+# Task 2 (autoencoders), CPU build: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
